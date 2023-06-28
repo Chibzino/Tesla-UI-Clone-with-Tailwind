@@ -6,6 +6,6 @@
   .link {
     @apply cursor-pointer text-[12px]
      font-semibold
-     space-y;
+     space-y-2;
   }
 }
